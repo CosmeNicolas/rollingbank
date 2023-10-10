@@ -1,3 +1,13 @@
+body{
+  min-width: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main{
+  flex-grow: 1;
+}
+
 .fuente-nav {
   font-family: 'Russo One', sans-serif;
   color: aliceblue;
