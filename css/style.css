@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
 body{
   min-width: 100vh;
   display: flex;
@@ -11,4 +12,46 @@ main{
 .fuente-nav {
   font-family: 'Russo One', sans-serif;
   color: aliceblue;
+}
+.tituloPrecios{
+  color: aliceblue;
+  font-size: 20px;
+  background-color: rgb(12, 118, 175);
+  font-family: 'Black Han Sans',sans-serif;
+}
+.precio{
+    background-color: rgb(12, 118, 175);
+    color: aliceblue;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 13%;
+}
+.fa-user{
+    color:  rgb(9, 149, 224);
+    font-size: 37px;
+   
+}
+.fa-screwdriver-wrench{
+    color:  rgb(248, 193, 43);
+    font-size: 33px;
+}
+.fa-money-check-dollar{
+    color: rgb(216, 27, 27);
+    font-size: 30px;
+}
+.fa-money-bill-wave{
+    color: rgb(13, 124, 24);
+    font-size: 30px;
+}
+.fa-credit-card{
+    color: rgb(29, 157, 216);
+    font-size: 30px;
+}
+.labelColor{
+  background-color: rgb(12, 118, 175);
+  width: 30px;
+  height: 40px;
+  color: aliceblue;
+  font-size: 20px;
+  border-radius: 7%;
 }
