@@ -92,3 +92,16 @@ main{
   font-size: 20px;
   border-radius: 7%;
 }
+.tituloQuienesSomos{
+  color: aliceblue;
+  font-size: 20px;
+  background-color: rgb(12, 118, 175);
+  font-family: 'Black Han Sans',sans-serif;
+}
+.subtitulo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
