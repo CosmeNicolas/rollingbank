@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
 body{
   min-width: 100vh;
   display: flex;
@@ -13,6 +14,3 @@ main{
   color: aliceblue;
 }
 
-.iconos-footer {
-  color: #6c757d;
-}
