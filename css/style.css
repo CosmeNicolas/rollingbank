@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
 body{
   min-width: 100vh;
   display: flex;
@@ -13,39 +14,4 @@ main{
   color: aliceblue;
 }
 
-.img-carrousel{
-  height: 500px;
-  object-fit: cover;
-}
 
-.IconHand{
-  color: red;
-  }
-
-.iconFace{
-  color: blue;
-}
-
-.iconBillete{
-  color: rgb(24, 169, 24);
-}
-
-.iconPuzzle{
-  color: rgb(195, 0, 254);
-}
-
-.img-iphone{
-  height: 500px;
-}
-
-.titulo-factores-seguridad{
-  font-family: 'Russo One', sans-serif;
-}
-
-/* responsive dispositivos medianos */
-@media all and (min-width:768px ) and (max-width: 991px){
-  .img-iphone{
-    height: 850px;
-  }
-
-}
