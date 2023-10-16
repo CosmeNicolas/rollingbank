@@ -14,3 +14,81 @@ main{
   color: aliceblue;
 }
 
+
+.img-carrousel {
+  height: 500px;
+  object-fit: cover;
+}
+
+.IconHand {
+  color: red;
+}
+
+.iconFace {
+  color: blue;
+}
+
+.iconBillete {
+  color: rgb(24, 169, 24);
+}
+
+.iconPuzzle {
+  color: rgb(195, 0, 254);
+}
+
+.img-iphone {
+  height: 500px;
+}
+
+.titulo-factores-seguridad {
+  font-family: 'Russo One', sans-serif;
+}
+.tituloPrecios{
+  color: aliceblue;
+  font-size: 20px;
+  background-color: rgb(12, 118, 175);
+  font-family: 'Black Han Sans',sans-serif;
+}
+.precio{
+    background-color: rgb(12, 118, 175);
+    color: aliceblue;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 13%;
+}
+.fa-user{
+    color:  rgb(9, 149, 224);
+    font-size: 37px;
+   
+}
+.fa-screwdriver-wrench{
+    color:  rgb(248, 193, 43);
+    font-size: 33px;
+}
+.fa-money-check-dollar{
+    color: rgb(216, 27, 27);
+    font-size: 30px;
+}
+.fa-money-bill-wave{
+    color: rgb(13, 124, 24);
+    font-size: 30px;
+}
+.fa-credit-card{
+    color: rgb(29, 157, 216);
+    font-size: 30px;
+}
+.labelColor{
+  background-color: rgb(12, 118, 175);
+  width: 30px;
+  height: 40px;
+  color: aliceblue;
+  font-size: 20px;
+  border-radius: 7%;
+}
+/* responsive dispositivos medianos */
+@media all and (min-width:768px) and (max-width: 991px) {
+  .img-iphone {
+    height: 850px;
+  }
+
+}
